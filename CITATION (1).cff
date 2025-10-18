@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATHLAB; SPYDER
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eliza Yasunari
+    family-names: Urbina Gómez
+    email: l22211768@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/ey-u-g/Practica4MSF'
+keywords:
+  - Sitema Cardiovascular
+  - Controlador PI
+  - Simulaciones numericas
+  - Modelado matematico
+  - Normotenso
+  - Hipertenso
+  - Hipotenso
+license: BSD-2-Clause
+date-released: '2025-10-17'
